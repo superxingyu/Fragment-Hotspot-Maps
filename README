@@ -1,0 +1,4 @@
+1. Install MGLTools
+2. Set MGLTools Environment (export MGL_ROOT=/Library/MGLTools/1.5.6; replace python with $MGL_ROOT/bin/pythonsh)
+
+
